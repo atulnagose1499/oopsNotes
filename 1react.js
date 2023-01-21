@@ -36,26 +36,39 @@
 // A typical ReactJS project has the following folder structure:
 
 // public: contains the public assets of the project such as the index.html file and any static files.
+
 // src: contains the source code of the project, including components, images, and styles.
+
 // node_modules: contains the packages that are installed via npm or yarn.
+
 // package.json: contains the project's dependencies and scripts.
+
 // package-lock.json or yarn.lock: contains the exact versions of the packages installed in the project.
+
 // webpack.config.js: contains the webpack configuration for the project.
+
 // .babelrc: contains the babel configuration for the project.
+
 // .eslintrc: contains the eslint configuration for the project.
+
 // .gitignore: contains the files and directories that should be ignored by git.
 // ------------------------------------------------------------------------------------------------------------
 // Inside the src folder of a ReactJS project, you will typically find the following files and directories:
 
 // index.js: this is the entry point of the application, where the React app is rendered to the DOM. It also contains the code to setup the React app with the DOM.
+
 // index.html : this file is the template file for the application, which will be processed by webpack and served by the development server.
+
 // components: this directory contains all the React components of the application, organized into subdirectories by feature or page. Each component is typically defined in a separate file, with the same name as the component.
+
 // assets: this directory contains any assets that the application needs, such as images, fonts, or icons.
+
 // styles: this directory contains the styles for the application, organized into subdirectories by feature or page. It might include the css, scss, less or any other preprocessors.
+
 // routes: this directory contains the routing configuration for the application. It might include the index.js file that exports the routing configuration.
+
 // redux: this directory contains the state management configuration for the application using redux. It might include the store.js, reducers and actions
+
 // services: this directory contains the services that the application uses to interact with APIs or other services.
+
 // Please note that this is just a typical folder structure and the exact structure of your project may vary depending on the project's requirements and the developer's preference.
-
-
-
