@@ -22,6 +22,18 @@
 // network request should take maximum time also
 
 
+// story of handle order of sequence function
+// using sync's code try
+// network request more time and block will created
+// using Async's code try
+// in Async's code not create any block but order in not maintained
+// using callback function try
+// in callback we achieve order but it's created callback hell
+//  callbacks can create callback hell leading to unmanageable code.
+// try promises
+// Promises are an abstraction that represents
+// try Async Await
+//better way to handle callback is Async await as compare promises
 
 // ------------------------------------------------------------------------------------------------------------
 // 
