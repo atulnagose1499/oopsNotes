@@ -1,0 +1,47 @@
+- Arrow functions vs normal functions
+- Lexical this -> .call, apply and bind or ABC of JS
+- Closures 
+
+- debounce vs throttling
+- Symbol
+- Spread operator, rest operator, Destructuring
+
+- named imports, default imports
+- map, filter, reduce
+- mutuable vs immutable 
+- settimeout, setinterval
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+To bhaiya interview me sabse phle poocha jata tha ABC of javascript batao, pata hi nhi tha
+Spread, rest operator vs Destructuring me farak batao, yh bhi use kiya but explain karne layak nhi aata tha,
+ya fir debounce ya throttling ho gya in JS.
+
+To apni galtiyo se learn karte hue aur industry me millions of users ko support karne waali website 
+banane ke baad - i am here to teach you some intermediate Js concepts that are usually asked in interview nowdays
+and are really import for you to know as a developer. 
+To saare topics with code cover karenge , to chalo topics dekh hai fatfat
+
+To as per last video, i divided the topics on the basis of complexity. In this video we will be seeing
+these topics in detail, bet laga lo kuch to new sikhoge inme - to har ek part dekhna.
+
+
